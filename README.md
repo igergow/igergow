@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋,
 
-<!--
-**igergow/igergow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ivo Gergov, a passionate technologist with over 16 years of experience in various technology fields. I'm currently embracing the role of an Assistant Professor at the Technical University of Sofia, where I have the privilege to share my knowledge and inspire the next generation of engineers.
 
-Here are some ideas to get you started:
+🤖 Co-founder of a children's robotics academy, I'm dedicated to making technology accessible and fun for the younger minds. My journey in this venture has been nothing short of exhilarating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 As the CEO of Evo Tech, I lead a team where innovation and creativity meet to create cutting-edge technological solutions. Our mission is to drive progress and make a tangible impact in the tech world.
+
+🌟 My passion for technology is a profession and a way of life. I'm constantly exploring new horizons and pushing the boundaries of what's possible.
+
+🔗 Let's connect! For more insights, you can find me on [LinkedIn](https://www.linkedin.com/).
+
+I believe in the power of technology to transform lives, and I'm always looking for like-minded individuals and exciting opportunities. Let's make the digital world a better place together!
